@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**BristiJana/BristiJana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Link]](https://www.linkedin.com/in/bristi-jana-379a5b1b9/)
 
-Here are some ideas to get you started:
+I am Bristi Jana. My main interest lies in Data Science and Web development. I also have basic knowledge of Cloud. I am always curious to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a Web Dev project.
+
+🌱 I’m currently learning best practices for ML and Web Development.
+
+📫 How to reach me: Contact me directly on this mail bristi2542@gmail.com.
+
+😄 Pronouns: You can give one.
+
+⚡ Fun fact: I can work without music.
