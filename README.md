@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn Link](symbol/174857.png=250x250)](https://www.linkedin.com/in/bristi-jana-379a5b1b9/)
+[![LinkedIn Link](symbol/174857.png=400x400)](https://www.linkedin.com/in/bristi-jana-379a5b1b9/)
 
 I am Bristi Jana. My main interest lies in Data Science and Web development. I also have basic knowledge of Cloud. I am always curious to learn something new.
 
