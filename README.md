@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My LinkedIn Profile]](https://www.linkedin.com/in/bristi-jana-379a5b1b9/)
+[My LinkedIn Profile](https://www.linkedin.com/in/bristi-jana-379a5b1b9/)
 
 I am Bristi Jana. My main interest lies in Data Science and Web development. I also have basic knowledge of Cloud. I am always curious to learn something new.
 
