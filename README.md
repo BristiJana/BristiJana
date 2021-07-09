@@ -4,7 +4,7 @@
 
 I am Bristi Jana. My main interest lies in Data Science and Web development. I also have basic knowledge of Cloud. I am always curious to learn something new.
 
-🔭 I’m currently working on a Web Dev project.
+🔭 I’m currently working on Data Science and Web Dev project.
 
 🌱 I’m currently learning best practices for ML and Web Development.
 
